@@ -1,2 +1,4 @@
-# laboratorio-modulo1-leccion01-manejo-errores
-Entrega Alberto Arguello laboratorio-modulo1-leccion01-manejo-errores
+# laboratorio modulo1 leccion01 manejo errores
+Entrega Alberto Arguello
+Ejercicios sobre como manejar errores en Python con las diferentes formas Try...Except
+
